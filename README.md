@@ -106,3 +106,7 @@ This weather app serves as a foundation for more complex projects in the future.
 
 <img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bc71ac69-e353-4dd5-a010-4ce9ac65478c" />
 <img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/8a04fb1a-8475-4341-b63c-fea2eee81f27" />
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/409679ea-105c-45ca-8ef9-88f99b61df14" />
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bc71ac69-e353-4dd5-a010-4ce9ac65478c" />
+<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/8a04fb1a-8475-4341-b63c-fea2eee81f27" />
