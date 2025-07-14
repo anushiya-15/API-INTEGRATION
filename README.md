@@ -104,9 +104,8 @@ This weather app serves as a foundation for more complex projects in the future.
 
 ##OUTPUT
 
-<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bc71ac69-e353-4dd5-a010-4ce9ac65478c" />
-<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/8a04fb1a-8475-4341-b63c-fea2eee81f27" />
-<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/409679ea-105c-45ca-8ef9-88f99b61df14" />
-
-<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bc71ac69-e353-4dd5-a010-4ce9ac65478c" />
-<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/8a04fb1a-8475-4341-b63c-fea2eee81f27" />
+<img width="1913" height="1020" alt="Image" src="https://github.com/user-attachments/assets/61627946-067c-4032-b4a0-d7483a53c58d" />
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/019be89e-fbac-492b-9b3a-859f8372d4db" />
+<img width="1918" height="1018" alt="Image" src="https://github.com/user-attachments/assets/6368e568-2209-4fb7-a257-dab07898b27d" />
+<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/9046ba2d-f0f8-4cea-af58-16b8c93f656c" />
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4f4d6d6a-dd43-404d-9a2a-80d9d6ebb0b3" />
