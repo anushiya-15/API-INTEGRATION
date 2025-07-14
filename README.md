@@ -91,11 +91,18 @@ Integrated into smart home applications to adjust conditions like air conditioni
 
 
 
-
  SUMMARY 
-
 
  
 Completing this task was a significant step in my full-stack development journey. It taught me how frontend applications can communicate with external services to provide dynamic and useful information to users. I also learned the importance of testing APIs before integration, and how powerful tools like Postman can be for developers.
 
 This weather app serves as a foundation for more complex projects in the future. By mastering API integration, I am now confident in moving on to tasks that involve back-end integration, database connectivity, and full-stack deployments.
+
+
+
+
+
+##OUTPUT
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bc71ac69-e353-4dd5-a010-4ce9ac65478c" />
+<img width="1917" height="973" alt="Image" src="https://github.com/user-attachments/assets/8a04fb1a-8475-4341-b63c-fea2eee81f27" />
